@@ -1,12 +1,21 @@
 #!/usr/bin/python3
+
+"""
+Creator: maxmolot@gmail.com
+This is how I learned Python3-PyQt5
+"""
+
 """
 Bugs:
-	cats game
 	set board unclickable after click
 Possible Features:
-	change who starts
-	menubar/stuff
+	menubar
+TODO:
+	clean up (messy code, unused variables)
+	find better way to emulate do-while loop in python
 """
+
+
 import sys
 import random
 import time
